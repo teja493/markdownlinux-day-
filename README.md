@@ -17,4 +17,5 @@
 - git -m "message"
 - git push remotename branchname
 - git pull remotename branchname
-
+## Inserting Image
+![lotus](https://github.com/teja493/markdownlinux-day-/blob/master/kkk.jpg)
