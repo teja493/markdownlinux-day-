@@ -19,3 +19,5 @@
 - git pull remotename branchname
 ## Inserting Image
 ![lotus](https://github.com/teja493/markdownlinux-day-/blob/master/kkk.jpg)
+## Inserting Image
+[![](https://img.youtube.com/vi/BFNekjEgvuk/0.jpg)](https://www.youtube.com/watch?v=BFNekjEgvuk)
